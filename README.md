@@ -12,3 +12,5 @@ The reason I was looking for a workaround in the first place was to pull up thum
 I made the columns into separate arrays with the same start and end point; that way, the indexes all matched the correct row. After finding the index of the proper ID number, I used that value to pull up an image URL in the reference table. From there, I just made a modal dialog that took that grabbed URL and put it within an HTML image tag.
 
 There's probably more effective ways to do this. People may find improvements on what I've done, but I'm happy to come up with the first draft of using this exploit.
+
+Edit: Oh! I forgot. I'd like to share my results to show y'all how it works. Here: https://docs.google.com/spreadsheets/d/1zgUd0oKM_KhUjuL4o089NIU8yXmlCYa8jp3IaApv2Ac/edit?usp=sharing
